@@ -1,6 +1,1 @@
-A Tale of Employee Data Analysis
 
-
-A Tale of Employee Data Analysis is a Tableau project that utilizes an Employee Sample Data dataset to offer insights into workforce dynamics and performance. The project comprises three interactive dashboards: The Employee Demographics Dashboard provides a visual breakdown of key demographic factors such as age, gender, and department diversity, enabling users to explore and analyze the composition of the workforce. The Performance and Compensation Dashboard examines the correlation between employee performance ratings and compensation levels through scatter plots and bar charts, helping identify patterns that may inform compensation strategies.
-
-The Employee Retention and Attrition Dashboard focuses on identifying trends and factors influencing employee turnover, using heat maps and time series analyses to highlight potential risk areas. The project culminates in a story titled A Tale of Employee Data Analysis, which integrates findings from all three dashboards to present a cohesive narrative. This story helps stakeholders understand the interconnectedness of employee demographics, performance, and retention, providing a comprehensive view of the workforce for data-driven decision-making.
